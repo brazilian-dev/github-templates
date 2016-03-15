@@ -3,13 +3,25 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/github-templates.svg?style=flat-square)](https://github.com/brazilian-dev/github-templates/issues)
 
+## Templates
+
+### README
+
+- [Default](templates/readme/default.md)
+- []()
+
+
 > GitHub listened and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
 
-## Issues `ISSUE_TEMPLATE.md`
+### ISSUE_TEMPLATE
 
+- []()
+- []()
 
-## Pull Requests `PULL_REQUEST_TEMPLATE.md`
+### PULL_REQUEST_TEMPLATE
 
+- []()
+- []()
 
 ## Contributing
 
