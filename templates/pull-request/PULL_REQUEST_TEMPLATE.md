@@ -1,17 +1,24 @@
-### All Submissions:
+Please prefix your pull request with one of the following: **[FEATURE]** **[FIX]** **[IMPROVEMENT]**.
 
-* [ ] Have you followed the guidelines in our Contributing document?
-* [ ] Have you checked to ensure there aren't other open [Pull Requests](../../pulls) for the same update/change?
+**In raising this pull request, I confirm the following (please check boxes):**
 
-<!-- You can erase any parts of this template not applicable to your Pull Request. -->
+- [ ] I have read and understood the [contributors guide]().
+- [ ] I have checked that another pull request for this purpose does not exist.
+- [ ] I have considered, and confirmed that this submission will be valuable to others.
+- [ ] I accept that this submission may not be used, and the pull request closed at the will of the maintainer.
+- [ ] I give this submission freely, and claim no ownership to its content.
 
-### New Feature Submissions:
+**My familiarity with the project is as follows (check one):**
 
-1. [ ] Does your submission pass tests?
-2. [ ] Have you lint your code locally prior to submission?
+- [ ] I have never used the project.
+- [ ] I have used the project briefly.
+- [ ] I have used the project extensively, but have not contributed previously.
+- [ ] I am an active contributor to the project.
 
-### Changes to Core Features:
+**If the project maintainer has any additional requirements, they will be listed here.**
 
-* [ ] Have you added an explanation of what your changes do and why you'd like us to include them?
-* [ ] Have you written new tests for your core changes, as applicable?
-* [ ] Have you successfully ran tests with your changes locally?
+- No additional requirements.
+
+---
+
+{pull request content here}

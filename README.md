@@ -3,15 +3,21 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/github-templates.svg?style=flat-square)](https://github.com/brazilian-dev/github-templates/issues)
 
+> Setting guidelines for [repository contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
+
+> GitHub listened and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
+
 ## Templates
 
 ### README
 
-- [Default](templates/readme/default.md)
+- [default](templates/readme/default.md)
+- [gh-pages](templates/readme/gh-pages.md)
+- [gh-pages](templates/readme/app.md)
+
+### CONTRIBUTING
+
 - []()
-
-
-> GitHub listened and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
 
 ### ISSUE_TEMPLATE
 
@@ -22,6 +28,10 @@
 
 - []()
 - []()
+
+## References
+
+- 
 
 ## Contributing
 

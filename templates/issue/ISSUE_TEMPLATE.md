@@ -1,17 +1,22 @@
-# Please follow the general troubleshooting steps first:
+Please prefix your issue with one of the following: **[BUG]** **[PROPOSAL]** **[QUESTION]**.
 
-- [ ] Ran ?
-- [ ] Ran ?
-- [ ] If you're seeing permission errors ?
+**In raising this issue, I confirm the following (please check boxes):**
 
-<!-- You can erase any parts of this template not applicable to your Issue. -->
+- [ ] I have read and understood the [contributors guide]().
+- [ ] I have checked that the bug-fix I am reporting can be replicated, or that the feature I am suggesting isn't already present.
+- [ ] I have checked the pull requests tab for existing solutions/implementations to my issue/suggestion.
 
-### Bug reports:
+**My familiarity with the project is as follows (check one):**
 
-Please replace this line with a brief summary of your issue **AND** if reporting a build issue include the link from:
+- [ ] I have never used the project.
+- [ ] I have used the project briefly.
+- [ ] I have used the project extensively, but have not contributed previously.
+- [ ] I am an active contributor to the project.
 
-### Features:
+**If the project maintainer has any additional requirements, they will be listed here.**
 
-**Please note by far the quickest way to get a new feature is to file a Pull Request.**
+- No additional requirements.
 
-We will consider your request but it may be closed if it's something we're not actively planning to work on.
+---
+
+{issue content here}
