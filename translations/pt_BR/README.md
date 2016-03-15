@@ -7,9 +7,9 @@
 
 > GitHub listened and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
 
-## Translations
+## Traduções
 
-* [Portuguese - Brazil](translations/pt_BR)
+* [ORIGINAL](https://github.com/brazilian-dev/github-templates/)
 
 ## Templates
 
@@ -23,30 +23,30 @@
 ### CONTRIBUTING
 
 - [default](templates/contributing/default/CONTRIBUTING.md)
-- [simple](templates/contributing/simple/CONTRIBUTING.md)
+- [simples](templates/contributing/simple/CONTRIBUTING.md)
 
 ### ISSUE_TEMPLATE
 
 - [default](templates/issue/default/ISSUE_TEMPLATE.md)
-- [simple](templates/issue/simple/ISSUE_TEMPLATE.md)
+- [simples](templates/issue/simple/ISSUE_TEMPLATE.md)
 
 ### PULL_REQUEST_TEMPLATE
 
 - [default](templates/pull-request/default/PULL_REQUEST_TEMPLATE.md)
-- [simple](templates/pull-request/simple/PULL_REQUEST_TEMPLATE.md)
+- [simples](templates/pull-request/simple/PULL_REQUEST_TEMPLATE.md)
 
-## Contributing
+## Contribuindo
 
-- Fork it!
-- Create your feature branch: `git checkout -b my-new-feature`
-- Commit your changes: `git commit -m 'Add some feature'`
-- Push to the branch: `git push origin my-new-feature`
-- Submit a pull request
+- Faça o fork!
+- Crie a sua branch feature: `git checkout -b my-new-feature`
+- Faça o commit das suas alterações: `git commit -m 'Add some feature'`
+- Faça o push para o servidor: `git push origin my-new-feature`
+- E realize o pull request
 
 ## Log
 
-Check [Releases](https://github.com/brazilian-dev/github-templates/releases) for detailed changelog.
+Verifique os [Releases](https://github.com/brazilian-dev/github-templates/releases) ver detalhado o log de alterações.
 
-## License
+## Licença
 
 [MIT license](http://hemersonvianna.mit-license.org/) © Hemerson Vianna

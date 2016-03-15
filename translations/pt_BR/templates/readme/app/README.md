@@ -1,6 +1,6 @@
 # App Name as Headline
 
-**App Name** is an app for things. Short description here.
+**App Name** é um aplicativo para as coisas. Breve descrição aqui.
 
 #### Screenshot
 ![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android")
@@ -8,10 +8,10 @@
 ![Screenshot iOS](http://url/screenshot-appname-ios.png "screenshot iOS")
 
 #### App Stores
-<!-- edit this image location -->
+<!-- editar esta localização da imagem -->
 [![Get it on Google Play](googleplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
-<!-- edit this image location -->
+<!-- editar esta localização da imagem -->
 [![Download on the AppStore](appstore.png)](https://itunes.apple.com/app/id123456)
 
 #### QR Market Links
@@ -20,38 +20,38 @@
 ![QR-Code iOS](http://url/qrcode-appname-ios.png)
 
 ## Tests
-#### Works on
-* Devices it works with
+#### Funciona em
+* Dispositivos com as quais trabalha
 
-#### Does not work on
-* Devices it doesn't work with
+#### Não funciona em
+* Dispositivos que não trabalham com
 
-## Contributors
-### Artwork
-* Any credit to artists(music,images,...)
+## Contribuintes
+### Obra
+* Qualquer crédito para artistas (música, imagens, ...)
 
-### Contributors on GitHub
-* [Contributors](https://github.com/username/appname/graphs/contributors)
+### Contribuintes no GitHub
+* [Contribuintes](https://github.com/username/appname/graphs/contributors)
 
-### Translations
+### Traduções
 * [Transifex](https://www.transifex.com/projects/p/appname/)
 
-## Permissions
-* Any permissions needed by the app
+## Permissões
+* Todas as permissões necessárias para o aplicativo
 
-## Version 
-* Version X.Y
+## Versão
+* Versão X.Y
 
-## How-to use
+## Como usar
 
 
-## Contact
-#### Developer/Company
+## Contato
+#### Desenvolvedor/Empresa
 * Homepage: 
 * e-mail: 
 * Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
-* other communication/social media
+* outra comunicação / mídia social
 
-## License
+## Licença
 
 [MIT license](http://[user].mit-license.org/) © [name]
