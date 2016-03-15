@@ -4,7 +4,6 @@
 [![issues](https://img.shields.io/github/issues/brazilian-dev/github-templates.svg?style=flat-square)](https://github.com/brazilian-dev/github-templates/issues)
 
 > Setting guidelines for [repository contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
-
 > GitHub listened and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
 
 ## Templates
@@ -13,25 +12,19 @@
 
 - [default](templates/readme/default.md)
 - [gh-pages](templates/readme/gh-pages.md)
-- [gh-pages](templates/readme/app.md)
+- [app](templates/readme/app.md)
 
 ### CONTRIBUTING
 
-- []()
+- [template](templates/contributing/CONTRIBUTING.md)
 
 ### ISSUE_TEMPLATE
 
-- []()
-- []()
+- [template](templates/issue/ISSUE_TEMPLATE.md)
 
 ### PULL_REQUEST_TEMPLATE
 
-- []()
-- []()
-
-## References
-
-- 
+- [template](templates/pull-request/PULL_REQUEST_TEMPLATE.md)
 
 ## Contributing
 
