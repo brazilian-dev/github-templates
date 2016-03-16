@@ -1,11 +1,11 @@
-# App Name as Headline
+# [App Name as Headline]
 
-**App Name** is an app for things. Short description here.
+**[App Name]** is an app for[... Short description here].
 
 #### Screenshot
-![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android")
+![Screenshot Android](https://placehold.it/507x900 "screenshot Android")
 
-![Screenshot iOS](http://url/screenshot-appname-ios.png "screenshot iOS")
+![Screenshot iOS](https://placehold.it/507x900 "screenshot iOS")
 
 #### App Stores
 <!-- edit this image location -->
@@ -44,6 +44,8 @@
 
 ## How-to use
 
+* 
+* 
 
 ## Contact
 #### Developer/Company

@@ -1,10 +1,10 @@
-# Nome do script como ponto
+# [Nome do script como título]
 
-**Nome do script ** é um script para as coisas. O uso é explicado como este:
+**[Nome do script]** é um script para[... O uso é explicado como abaixo]:
 
 ```
 $ ./script parameter1 .. parameterN
- Output
+ Saída
 $ 
 ```
 ## Versão
@@ -12,10 +12,10 @@ $
 
 ## Contato
 #### Desenvolvedor/Empresa
-* Homepage: 
+* Página web: 
 * e-mail: 
 * Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
-* outra comunicação / mídia social
+* outra comunicação/mídia social
 
 ## Licença
 

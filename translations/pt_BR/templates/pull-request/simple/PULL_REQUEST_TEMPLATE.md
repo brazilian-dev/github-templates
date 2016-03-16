@@ -1,17 +1,14 @@
 ### Todas as inscrições:
 
-* [ ] Você seguiu as orientações do nosso documento Contribuindo?
-* [ ] Você já verificados para garantir que não há outras abra [pedidos Pull] (../../ puxa) para o mesmo update / mudar?
-
-<!-- Você pode apagar todas as peças deste modelo não se aplica ao seu pedido Pull. -->
+* [ ] Você seguiu as orientações do nosso guia para contribuições?
+* [ ] Você já verificou a aba [Pull requests]() para garantir que não há outro para a mesma atualização/alteração?
 
 ### Novas inscrições de recurso:
 
-1. [ ] A sua apresentação passar por testes?
-2. [ ] Já fiapo seu código localmente antes da sua apresentação?
+1. [ ] A sua submissão passou por testes?
+2. [ ] Já validou seu código localmente antes da sua submissão?
 
 ### Alterações aos Recursos:
 
-* [ ] Você já adicionou uma explicação do que as alterações fazem e por que você gostaria que nós incluí-los?
-* [ ] Você já escreveu novos testes para suas principais alterações, conforme o caso?
-* [ ] Testes têm de executar com sucesso com as alterações localmente?
+* [ ] Você já adicionou uma explicação do que as alterações fazem e porque você gostaria que nós incluíssemos?
+* [ ] Você já escreveu novos testes para suas principais alterações?

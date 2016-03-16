@@ -1,17 +1,14 @@
-# Por favor, siga os passos resolução de problemas gerais primeira:
+## Primeiros passos
 
-- [ ] Correu ?
-- [ ] Correu ?
-- [ ] Se você está vendo erros de permissão ?
+- [ ] Verifiquei que o bug-fix que estou relatando pode ser replicado, ou que a característica que eu estou sugerindo ainda não existe.
+- [ ] Verifiquei na aba de pull requests as soluções/implementações existentes para a minha questão/sugestão.
 
-<!-- Você pode apagar todas as peças deste modelo não se aplica ao seu problema. -->
+## Bugs:
 
-### Relatórios de bugs:
+[resumo do problema]
 
-Por favor, substituir esta linha com um breve resumo do seu problema ** E ** se relatando um problema construtor de incluir o link de:
+## Características:
 
-### Características:
+[resumo da cracterística para um Pull request]
 
-**Por favor, note de longe a forma mais rápida de obter um novo recurso é de apresentar uma solicitação de recebimento.**
-
-Vamos considerar o seu pedido, mas pode ser fechado se é algo que não está ativamente planejando para trabalhar.
+Vamos considerar o seu pedido, mas pode ser fechado se é algo que não está ativamente planejando para ser trabalho.

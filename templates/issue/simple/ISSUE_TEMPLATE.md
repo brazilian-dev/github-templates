@@ -1,17 +1,14 @@
-# Please follow the general troubleshooting steps first:
+## First steps
 
-- [ ] Ran ?
-- [ ] Ran ?
-- [ ] If you're seeing permission errors ?
+- [ ] I have checked that the bug-fix I am reporting can be replicated, or that the feature I am suggesting isn't already present.
+- [ ] I have checked the pull requests tab for existing solutions/implementations to my issue/suggestion.
 
-<!-- You can erase any parts of this template not applicable to your Issue. -->
+## Bug reports:
 
-### Bug reports:
+[brief summary of the issue]
 
-Please replace this line with a brief summary of your issue **AND** if reporting a build issue include the link from:
+## Features:
 
-### Features:
-
-**Please note by far the quickest way to get a new feature is to file a Pull Request.**
+[brief summary of the feature for a Pull Request]
 
 We will consider your request but it may be closed if it's something we're not actively planning to work on.

@@ -1,37 +1,37 @@
-# App Name as Headline
+# [Nome do app como título]
 
-**App Name** é um aplicativo para as coisas. Breve descrição aqui.
+**[Nome do app]** é um aplicativo para[... Breve descrição aqui].
 
-#### Screenshot
-![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android")
+#### Imagem de tela
+![Tela Android](https://placehold.it/507x900 "tela Android")
 
-![Screenshot iOS](http://url/screenshot-appname-ios.png "screenshot iOS")
+![Tela iOS](https://placehold.it/507x900 "tela iOS")
 
-#### App Stores
+#### Lojas de aplicativos
 <!-- editar esta localização da imagem -->
-[![Get it on Google Play](googleplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
+[![Obtê-lo na Google Play](googleplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
 <!-- editar esta localização da imagem -->
-[![Download on the AppStore](appstore.png)](https://itunes.apple.com/app/id123456)
+[![Baixar na loja de aplicativos](appstore.png)](https://itunes.apple.com/app/id123456)
 
 #### QR Market Links
 ![QR-Code Android](http://url/qrcode-appname-android.png)
 
 ![QR-Code iOS](http://url/qrcode-appname-ios.png)
 
-## Tests
+## Testes
 #### Funciona em
-* Dispositivos com as quais trabalha
+* Dispositivos com os quais trabalha
 
 #### Não funciona em
 * Dispositivos que não trabalham com
 
-## Contribuintes
+## Contribuidores
 ### Obra
 * Qualquer crédito para artistas (música, imagens, ...)
 
-### Contribuintes no GitHub
-* [Contribuintes](https://github.com/username/appname/graphs/contributors)
+### Contribuidores no GitHub
+* [Contribuidores](https://github.com/username/appname/graphs/contributors)
 
 ### Traduções
 * [Transifex](https://www.transifex.com/projects/p/appname/)
@@ -44,13 +44,15 @@
 
 ## Como usar
 
+* 
+* 
 
 ## Contato
 #### Desenvolvedor/Empresa
-* Homepage: 
+* Página web: 
 * e-mail: 
 * Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
-* outra comunicação / mídia social
+* outra comunicação/mídia social
 
 ## Licença
 

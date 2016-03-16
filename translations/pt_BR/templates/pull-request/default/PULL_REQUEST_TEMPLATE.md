@@ -1,19 +1,19 @@
-Por favor prefixar o seu pedido de puxar com uma das seguintes opções: ** [recursos] ** ** [FIX] ** ** [MELHORIA] **.
+Por favor prefixar o seu pedido de puxar com uma das seguintes opções: **[FEATURE]** **[FIX]** **[IMPROVEMENT]**.
 
-**Ao levantar essa solicitação de recebimento, eu confirme o seguinte (por favor, verifique caixas):**
+**Ao levantar esse pull request, eu confirmo o seguinte (por favor, verifique cada checkbox):**
 
-- [ ] Eu li e entendi a [Guia de contribuintes]().
-- [ ] Tenho verificado que uma outra solicitação de recebimento para esta finalidade não existe.
-- [ ] Eu tenho considerado, e confirmou que esta submissão será valiosa para os outros.
-- [ ] Eu aceito que este argumento não pode ser utilizado, ea solicitação de recebimento fechado na vontade do mantenedor.
-- [ ] Dou esta submissão livremente, e reivindicar nenhum direito de propriedade ao seu conteúdo.
+- [ ] Eu li e entendi o guia de contribuidores.
+- [ ] Verifiquei que um outro pull request para esta finalidade não existe.
+- [ ] Considerei e confirmo que esta submissão será valiosa para os outros.
+- [ ] Aceito que este argumento não pode ser utilizado e o pull request fechado na vontade do mantenedor.
+- [ ] Dou esta submissão livremente e não reivindicarei nenhum direito de propriedade ao seu conteúdo.
 
 **Minha familiaridade com o projeto é a seguinte (marque um):**
 
 - [ ] Eu nunca usei o projeto.
-- [ ] Eu tenho usado o breve projeto.
+- [ ] Eu tenho usado brevemente o projeto.
 - [ ] Eu tenho usado o projeto extensivamente, mas não têm contribuído anteriormente.
-- [ ] Eu sou um contribuinte ativo para o projeto.
+- [ ] Eu sou um contribuidor ativo para o projeto.
 
 **Se o mantenedor do projeto tem quaisquer requisitos adicionais, eles serão listados aqui.**
 
@@ -21,4 +21,4 @@ Por favor prefixar o seu pedido de puxar com uma das seguintes opções: ** [rec
 
 ---
 
-{puxar o conteúdo do pedido aqui}
+{conteúdo do pull request aqui}

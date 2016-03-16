@@ -1,17 +1,17 @@
-Por favor prefixar o problema com um dos seguintes procedimentos: ** [BUG] ** ** [PROPOSTA] ** ** [PERGUNTA] **.
+Por favor prefixar o problema com um dos seguintes procedimentos: **[BUG]** **[PROPOSAL]** **[QUESTION]**.
 
-**Em levantar esta questão, eu confirme o seguinte (por favor, verifique caixas):**
+**Ao levantar esta questão, eu confirmo o seguinte (por favor, verifique cada checkbox):**
 
-- [ ] Eu li e entendi a [Guia de contribuintes] ().
-- [ ] Tenho verificado que o bug-fix Estou relatando pode ser replicado, ou que a característica que eu estou sugerindo que já não está presente.
-- [ ] Tenho verificado na guia pedidos de puxar para soluções existentes / implementações à minha questão / sugestão.
+- [ ] Eu li e entendi a Guia de contribuidores.
+- [ ] Verifiquei que o bug-fix que estou relatando pode ser replicado, ou que a característica que eu estou sugerindo ainda não existe.
+- [ ] Verifiquei na aba de pull requests as soluções/implementações existentes para a minha questão/sugestão.
 
 **Minha familiaridade com o projeto é a seguinte (marque um):**
 
 - [ ] Eu nunca usei o projeto.
-- [ ] Eu tenho usado o breve projeto.
+- [ ] Eu tenho usado brevemente o projeto.
 - [ ] Eu tenho usado o projeto extensivamente, mas não têm contribuído anteriormente.
-- [ ] Eu sou um contribuinte ativo para o projeto.
+- [ ] Eu sou um contribuidor ativo para o projeto.
 
 **Se o mantenedor do projeto tem quaisquer requisitos adicionais, eles serão listados aqui.**
 
@@ -19,4 +19,4 @@ Por favor prefixar o problema com um dos seguintes procedimentos: ** [BUG] ** **
 
 ---
 
-{conteúdo questão aqui}
+{conteúdo da issue aqui}
