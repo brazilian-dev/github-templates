@@ -1,7 +1,7 @@
 # Github templates
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/brazilian-dev/github-templates.svg?style=flat-square)](https://github.com/brazilian-dev/github-templates/issues)
+[![issues](https://img.shields.io/github/issues/descco-support/github-templates.svg?style=flat-square)](https://github.com/descco-support/github-templates/issues)
 
 > Setting guidelines for [repository contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
 
@@ -45,7 +45,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/brazilian-dev/github-templates/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-support/github-templates/releases) for detailed changelog.
 
 ## License
 
