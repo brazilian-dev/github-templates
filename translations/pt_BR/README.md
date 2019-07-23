@@ -1,7 +1,11 @@
 # Github templates
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/brazilian-dev/github-templates.svg?style=flat-square)](https://github.com/brazilian-dev/github-templates/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-moon-world/github-templates.svg)](https://github.com/org-moon-world/github-templates/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-moon-world/github-templates.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-moon-world/github-templates.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-moon-world/github-templates.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-moon-world/github-templates/total.svg)
 
 > Setting guidelines for [repository contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
 
@@ -9,7 +13,7 @@
 
 ## Traduções
 
-* [ORIGINAL](https://github.com/brazilian-dev/github-templates/)
+* [ORIGINAL](https://github.com/org-moon-world/github-templates/)
 
 ## Templates
 
@@ -45,7 +49,7 @@
 
 ## Log
 
-Verifique os [Releases](https://github.com/brazilian-dev/github-templates/releases) ver detalhado o log de alterações.
+Verifique os [Releases](https://github.com/org-moon-world/github-templates/releases) ver detalhado o log de alterações.
 
 ## Licença
 
