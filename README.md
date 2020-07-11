@@ -1,11 +1,11 @@
 # Github templates
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![GitHub issues](https://img.shields.io/github/issues/org-moon-world/github-templates.svg)](https://github.com/org-moon-world/github-templates/issues)
-![GitHub Release Date](https://img.shields.io/github/release-date/org-moon-world/github-templates.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/org-moon-world/github-templates.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/org-moon-world/github-templates.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/org-moon-world/github-templates/total.svg)
+[![GitHub issues](https://img.shields.io/github/issues/w3dotdev/github-templates.svg)](https://github.com/w3dotdev/github-templates/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/w3dotdev/github-templates.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/w3dotdev/github-templates.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/w3dotdev/github-templates.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/w3dotdev/github-templates/total.svg)
 
 > Setting guidelines for [repository contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
 
@@ -49,7 +49,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/org-moon-world/github-templates/releases) for detailed changelog.
+Check [Releases](https://github.com/w3dotdev/github-templates/releases) for detailed changelog.
 
 ## License
 
